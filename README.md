@@ -6,12 +6,19 @@
 
 ## Options
 `-if`: specify the input file to read from (default is stdin)
+
 `-of`: specify the output file to write to (default is stdout)
+
 `-bs`: set the block size in bytes (default is 512)
+
 `-count`: number of blocks to copy (default is -1, meaning all blocks)
+
 `-skip`: number of blocks to skip at start (default is 0)
+
 `-iseek`: skip input data until 'iseek' bytes (default is 0)
+
 `-oseek`: skip output data until 'oseek' bytes (default is 0)
+
 `-append`: append to output file instead of overwriting it (default is false)
 
 ## License
