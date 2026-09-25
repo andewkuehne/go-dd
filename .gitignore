@@ -1,0 +1,7 @@
+# Built binary
+/go-dd
+/go-dd.exe
+
+# Test and coverage output
+*.test
+*.out
